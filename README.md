@@ -9,6 +9,7 @@ Backend: PHP con CodeIgniter 4
 Frontend: HTML, CSS, JavaScript, Bootstrap 5
 Base de datos: MySQL
 Control de versiones: Git y GitHub
+
 👥 Equipo de desarrollo
 Somos un equipo de 2 integrantes trabajando en colaboración:
 
@@ -18,6 +19,7 @@ Somos un equipo de 2 integrantes trabajando en colaboración:
 
 📌 Funcionalidades previstas
 Registro e inicio de sesión de usuarios
+-
 -
 -
 

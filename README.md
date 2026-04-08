@@ -13,6 +13,7 @@ Control de versiones: Git y GitHub
 Somos un equipo de 2 integrantes trabajando en colaboración:
 
 -Miguel, Isabel de los Angeles
+
 -Poletti, Maria Antonella
 
 📌 Funcionalidades previstas

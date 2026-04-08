@@ -31,8 +31,11 @@ README.md Este archivo
 🔧 Cómo ejecutar el proyecto (modo local)
 Clona este repositorio:
 git clone https://github.com/iam-31/ing2-tc-grupo32.git
+
 Configurar el entorno en tu servidor local (XAMPP, MAMP, etc.).
+
 Importar la base de datos desde el archivo correspondiente (próximamente).
+
 Accede al proyecto desde tu navegador.
 
 📄 Licencia

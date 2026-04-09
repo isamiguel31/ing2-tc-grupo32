@@ -8,7 +8,7 @@ Este es un proyecto en desarrollo como parte del curso de la materia Ingeniería
 Backend: PHP con CodeIgniter 4
 Frontend: HTML, CSS, JavaScript, Bootstrap 5
 Base de datos: MySQL
-Control de versiones: Git y GitHub
+Control de versiones: GitHub
 
 👥 Equipo de desarrollo
 Somos un equipo de 2 integrantes trabajando en colaboración:
@@ -25,10 +25,6 @@ Registro e inicio de sesión de usuarios
 
 📁 Estructura del repositorio
 /app Código fuente del backend con CodeIgniter
-
-/public Archivos públicos (Bootstrap, imágenes, index.php)
-/database Scripts de base de datos
-README.md Este archivo
 
 🔧 Cómo ejecutar el proyecto (modo local)
 Clona este repositorio:
